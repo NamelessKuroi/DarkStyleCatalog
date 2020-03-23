@@ -1,0 +1,11 @@
+#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+#define NON_AVAILABLE "N / A"
+
+#define INITIAL_YEAR  1970;
+
+#define MIN_CHAPTER 0
+#define MAX_CHAPTER 3000
+
+#endif // DEFINITIONS_H
